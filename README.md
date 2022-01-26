@@ -6,7 +6,7 @@
   <h2 align="center">Détection de tumeurs sur des images IRM de cerveaux</h2>
 
   <p align="center">
-    Projet Machine Learning - <a href="https://blent.ai">Blent.ai</a>
+    Projet Computer Vision - <a href="https://blent.ai">Blent.ai</a>
     <br />
     <a href="https://blent.ai/app/projects" target="_blank"><strong>Explorer tous les projets »</strong></a>
 </div>
@@ -40,9 +40,9 @@ La description des étapes est disponible sur la page associée au projet.
 
 | Taille du train |      Précision      |     Sensibilité     |
 |:---------------:|:-------------------:|:-------------------:|
-|        1k       | $00.00 \pm 00.00\%$ | $00.00 \pm 00.00\%$ |
-|       10k       | $00.00 \pm 00.00\%$ | $00.00 \pm 00.00\%$ |
-|       100k      | $00.00 \pm 00.00\%$ | $00.00 \pm 00.00\%$ |
+|        1k       | <img src="https://latex.codecogs.com/svg.latex?00.00 \pm 00.00\%" /> | <img src="https://latex.codecogs.com/svg.latex?00.00 \pm 00.00\%" /> |
+|       10k       | <img src="https://latex.codecogs.com/svg.latex?00.00 \pm 00.00\%" /> | <img src="https://latex.codecogs.com/svg.latex?00.00 \pm 00.00\%" /> |
+|       100k      | <img src="https://latex.codecogs.com/svg.latex?00.00 \pm 00.00\%" /> | <img src="https://latex.codecogs.com/svg.latex?00.00 \pm 00.00\%" /> |
 
 > TODO : Il est possible d'ajouter des graphes pour apporter plus d'indications sur les résultats.
 
