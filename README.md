@@ -21,7 +21,7 @@ Une entreprise construit des appareils IRM, dont celles permettant d'effectuer d
 
 Pour celle, elle cherche à utiliser des algorithmes de Computer Vision efficaces et adaptés pour la segmentation d'images.
 
-L'objectif est de construire un  **algorithme capable de détecter et segmenter la présence d'une tumeur**  ou d'une structure cancéreuse sur une succession d'images en coupe (selon l'axe Z de la hauteur) d'un patient.
+L'objectif est de construire un **algorithme capable de détecter et segmenter la présence d'une tumeur** ou d'une structure cancéreuse sur une succession d'images en coupe (selon l'axe Z de la hauteur) d'un patient. Pour cela, le jeu de données BraTS 2019 contient de nombreuses images IRM à plusieurs coupes et contrastes différents de patients atteints d'une tumeur, ainsi que des segmentations de ces tumeurs réalisées à la main.
 
 > TODO : Compléter cette partie pour apporter plus d'informations sur le contexte du projet.
 
