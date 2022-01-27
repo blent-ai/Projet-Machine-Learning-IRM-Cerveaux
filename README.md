@@ -60,7 +60,7 @@ Le dépôt Git contient les éléments suivantes.
 
 ## Premiers pas
 
-Les instructions suivantes permettent de d'exécuter le projet sur son PC.
+Les instructions suivantes permettent d'exécuter le projet sur son PC.
 
 ### Pré-requis
 
@@ -72,9 +72,10 @@ Le projet nécessite Python 3 d'installé sur le système.
 
 1. Cloner le projet Git.
 	```
-	git clone https://github.com/UserName/ProjectName.git
+	git clone https://github.com/blent-ai/Projet-Machine-Learning-IRM-Cerveaux.git
 	```
 2. Installer les dépendances du fichier `requirements.txt` dans un environnement virtuel.
+
 	**Linux / MacOS**
 	```
 	python3 -m venv venv/
